@@ -2,7 +2,7 @@
 using NUnit.Framework;
 
 namespace GithubActionsLab
-{
+{//
     [TestFixture]
     public class Math
     {
